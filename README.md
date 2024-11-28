@@ -1,4 +1,5 @@
-## This project predicts whether a loan application will be approved or not based on various features using a Support Vector Machine (SVM) model.
+## Loan Status Prediction
+- This project predicts whether a loan application will be approved or not based on various features using a Support Vector Machine (SVM) model.
 
 ## Steps Performed
 
